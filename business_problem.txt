@@ -1,0 +1,10 @@
+
+Meşrubat satışları yapan bir firma, temmuz ayı boyunca yaptığı satışları gün gün bir excel dosyasında tutmaktadır. 
+
+Bu excel dosyası içerisinde lokasyon bilgisi bulunmaktadır (Parkta ve Plajda şeklinde). 
+
+Limon ve portakal suyu satışlarının kaçar adet gerçekleştiği,
+
+Reklam kampanyası için dağıtılan broşürlerin miktarları, 
+
+Fiyattaki değişim bilgisi yer almaktadır.
